@@ -49,4 +49,3 @@ builds/**/images/*
 # security / ssl
 *.pem
 *.xxjson
-01_helloWorld/heven.txt
